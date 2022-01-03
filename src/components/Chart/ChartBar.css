@@ -12,7 +12,7 @@
     border-radius: 12px;
     background-color: #c3b4f3;
     overflow: hidden;
-    display: flex;
+    display: flex;  
     flex-direction: column;
     justify-content: flex-end;
   }
